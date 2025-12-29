@@ -1,4 +1,4 @@
-# Arthur-s-Macropad
+# Arthur's Macropad
 Firmware:
 
 This hackpad uses KMK firmware, a Python-based keyboard firmware that runs on CircuitPython and is well suited for small custom macropads.
@@ -14,6 +14,7 @@ Firmware stack:
 Firmware: KMK
 Language: Python
 Runtime: CircuitPython
+
 #BOM:
 | Item              | Quantity | Part                                    | Notes                |
 | ----------------- | -------- | --------------------------------------- | -------------------- |
