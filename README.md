@@ -14,8 +14,22 @@ Firmware stack:
 Firmware: KMK
 Language: Python
 Runtime: CircuitPython
+#BOM:
+| Item              | Quantity | Part                                    | Notes                |
+| ----------------- | -------- | --------------------------------------- | -------------------- |
+| Microcontroller   | 1        | Seeed Studio XIAO RP2040 (Through-Hole) | Main MCU             |
+| Mechanical Switch | 5        | MX-style switches                       | Input keys           |
+| Keycaps           | 5        | DSA keycaps                             | Fits MX switches     |
+| Diodes            | 5        | 1N4148 (Through-Hole)                   | Switch isolation     |
+| RGB LEDs          | 2        | SK6812 MINI-E                           | Addressable RGB LEDs |
+| PCB               | 1        | Custom 2-layer PCB                      | ≤ 100mm × 100mm      |
+| Case (Top)        | 1        | 3D printed                              | PLA / PETG           |
+| Case (Bottom)     | 1        | 3D printed                              | PLA / PETG           |
+| Screws            | 4        | M3 × 16mm                               | Case assembly        |
+| Heat-set Inserts  | 4        | M3 × 5mm × 4mm                          | Case mounting        |
+| USB Cable         | 1        | USB-C cable                             | Programming & power  |
 
-MCU: Seeed XIAO RP2040
+
 
 Overall HackPad overview:
 I modeled the 5-key design in Fusion 360. The top and bottom are held together using 4 M3x16 bolts
