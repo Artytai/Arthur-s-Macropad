@@ -19,7 +19,7 @@ Language: Python
 Runtime: CircuitPython
 
 
-#BOM:
+BILL OF MATERIALS:
 | Item              | Quantity | Part                                    | Notes                |
 | ----------------- | -------- | --------------------------------------- | -------------------- |
 | Microcontroller   | 1        | Seeed Studio XIAO RP2040 (Through-Hole) | Main MCU             |
@@ -51,5 +51,6 @@ Bottom with PCB and Bolts:
 
 
 PCB Images:
-<img width="354" height="596" alt="image" src="https://github.com/user-attachments/assets/5f13845e-b8ab-4640-83f4-904b799ea131" />
-<img width="944" height="740" alt="image" src="https://github.com/user-attachments/assets/1664261f-5f06-4820-898c-76561a1127ba" />
+
+
+<img width="354" height="596" alt="image" src="https://github.com/user-attachments/assets/5f13845e-b8ab-4640-83f4-904b799ea131" /><img width="944" height="740" alt="image" src="https://github.com/user-attachments/assets/1664261f-5f06-4820-898c-76561a1127ba" />
