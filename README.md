@@ -11,9 +11,13 @@ The firmware source can be found in the Firmware/ folder as main.py.
 At submission time, the firmware has not been flashed to hardware, but it is logically complete and matches the PCB schematic and pinout.
 
 Firmware stack:
+
 Firmware: KMK
+
 Language: Python
+
 Runtime: CircuitPython
+
 
 #BOM:
 | Item              | Quantity | Part                                    | Notes                |
